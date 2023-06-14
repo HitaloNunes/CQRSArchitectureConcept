@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRSArchitectureConcept", "CQRSArchitectureConcept\CQRSArchitectureConcept.csproj", "{EC90CD50-D811-44DB-89AF-C91B94E2F15D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC90CD50-D811-44DB-89AF-C91B94E2F15D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC90CD50-D811-44DB-89AF-C91B94E2F15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC90CD50-D811-44DB-89AF-C91B94E2F15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC90CD50-D811-44DB-89AF-C91B94E2F15D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E238845C-3658-46A0-AF06-AAF1169005B2}
+	EndGlobalSection
+EndGlobal
